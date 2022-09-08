@@ -21,3 +21,5 @@
 ["Russia", "Denrnark", "Кazan"] -> []
 
 Блок схема решения задачи в файле BS.png
+https://github.com/SergeyAli/IT/tree/main/IT/BS.png
+
